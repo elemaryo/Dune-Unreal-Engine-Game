@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Content Folders
+Content/AncientContent
+Content/BlackAlder
+Content/MedievalDungeon
+Content/Megascans
+Content/StarterContent
+Content/__ExternalActors__
